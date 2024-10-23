@@ -9,13 +9,6 @@
 </div>
 
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -31,7 +24,7 @@ Estoy siempre en busca de nuevos desafíos y oportunidades para aprender. Mi ent
 
 Además, estoy ansioso por colaborar en proyectos interesantes donde pueda aportar mis habilidades y, al mismo tiempo, seguir creciendo profesionalmente. Si buscas un desarrollador comprometido, curioso y con muchas ganas de contribuir, ¡no dudes en contactarme!
 
-- 🔭 I’m currently working on **AWS, Javascript, Css,**
+- 🔭 I’m currently working on **AWS, JAVASCRIPT, CSS,**
 
 - 🌱 I’m currently learning **Javascript, AJAX, PHP and MySQL.**
 
@@ -66,7 +59,7 @@ Además, estoy ansioso por colaborar en proyectos interesantes donde pueda aport
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nish&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=CraigNoboa&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 <!--- trophy (start) -->
@@ -120,6 +113,5 @@ Además, estoy ansioso por colaborar en proyectos interesantes donde pueda aport
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
-Credit: [1010nishant](https://github.com/1010nishant)
 
 Last Edited on: 23/10/2024
